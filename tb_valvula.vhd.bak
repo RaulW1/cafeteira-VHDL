@@ -1,0 +1,68 @@
+----- VALVULA TESTBENCH -----
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_signed.all;
+use ieee.std_logic_arith.all;
+
+entity tb_valvula is
+end tb_valvula;
+
+architecture behavorial of tb_valvula is
+	component valvula is
+		port
+		(
+			--entradas
+			i_clk			: in STD_LOGIC;
+			i_reset		: in STD_LOGIC;
+			i_valve_en	: in STD_LOGIC;
+			i_count		: in integer;
+			
+			--saidas
+			i_valve_end		: out STD_LOGIC
+		);
+	end component;
+	
+	signal w_clk			: std_logic;
+	signal w_reset			: std_logic;
+	signal w_valve_en		: std_logic;
+	signal w_count			: std_logic;
+	signal w_valve_end	: std_logic;
+	
+	begin
+	
+	u01 : valvula
+	port map
+	(
+			i_clk			<= w_clk,
+			i_reset		<= w_rst,
+			i_valve_en	<= w_valve_en,
+			i_count		<= w_count,
+			
+			--saidas
+			i_valve_end		<= w_valve_end
+	);
+	
+	-- clk
+	process
+		begin
+		w_clk <= '1';
+		wait for 1000000000 NS;
+		w_clk <= '0';
+		wait for 1000000000 NS;
+		end process;
+		
+	-- reset
+	process
+		begin
+		w_reset <= '1';
+		wait for 10 NS;
+		w_reset <= '0';
+		end process;
+		
+	process
+		begin
+		w_reset <= '0';
+		w_valve_en <= '1';
+		end process;
+end behavorial;

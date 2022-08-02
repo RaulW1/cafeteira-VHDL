@@ -1,0 +1,708 @@
+# Errors: 0, Warnings: 0
+# Compile of tb_display.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of display.vhd was successful.
+vsim -gui work.tb_display
+# vsim -gui work.tb_display 
+# Start time: 02:55:04 on Aug 02,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.tb_display(behavorial)
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Warning: (vsim-3035) Instantiation depth of '/tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01' is 51. This might indicate a recursive instantiation. Increasing limit to 75.
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3732) No default binding for component instance 'u01'.
+#    The following component ports are not on the entity:
+#           o_display3
+#           o_display2
+#           o_display1
+#           o_display0
+#           i_reset
+#           i_sel
+#    Time: 0 ps  Iteration: 0  Instance: /tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01 File: C:/Users/raulw/OneDrive/Documentos/cafeteira_vhdl/tb_display.vhd Line: 47
+# ** Error: (vsim-3036) Instantiation depth of '/tb_display/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01/u01' is 75. Assuming recursive instantiation.
+# Error loading design
+# End time: 02:55:05 on Aug 02,2022, Elapsed time: 0:00:01
+# Errors: 75, Warnings: 3
+# Errors: 0, Warnings: 0
+# Compile of tb_display.vhd was successful.
+# Errors: 0, Warnings: 0
+# Compile of display.vhd was successful.
+vsim -gui work.tb_display
+# vsim -gui work.tb_display 
+# Start time: 02:57:33 on Aug 02,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_signed(body)
+# Loading work.tb_display(behavorial)
+# Loading work.display(behavorial)
+add wave -position insertpoint  \
+sim:/tb_display/w_sel \
+sim:/tb_display/w_reset \
+sim:/tb_display/w_display0 \
+sim:/tb_display/w_display1 \
+sim:/tb_display/w_display2 \
+sim:/tb_display/w_display3
+run
+# End time: 02:58:30 on Aug 02,2022, Elapsed time: 0:00:57
+# Errors: 0, Warnings: 2

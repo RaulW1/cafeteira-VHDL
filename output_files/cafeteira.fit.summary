@@ -1,0 +1,18 @@
+Fitter Status : Successful - Tue Aug  2 15:19:10 2022
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : cafeteira
+Top-level Entity Name : top_cafeteira
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 124 / 49,760 ( < 1 % )
+    Total combinational functions : 124 / 49,760 ( < 1 % )
+    Dedicated logic registers : 79 / 49,760 ( < 1 % )
+Total registers : 79
+Total pins : 41 / 360 ( 11 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

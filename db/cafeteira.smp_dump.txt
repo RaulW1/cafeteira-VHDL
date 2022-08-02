@@ -1,0 +1,6 @@
+
+State Machine - |top_cafeteira|maquina_de_cafe:u02|w_estado
+Name w_estado.st_done w_estado.st_preparando w_estado.st_idle 
+w_estado.st_idle 0 0 0 
+w_estado.st_preparando 0 1 1 
+w_estado.st_done 1 0 1 

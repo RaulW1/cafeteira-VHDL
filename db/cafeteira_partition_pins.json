@@ -1,0 +1,117 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_led_cafe",
+					"strict" : false
+				},
+				{
+					"name" : "o_led_cafe_leite",
+					"strict" : false
+				},
+				{
+					"name" : "o_led_moca",
+					"strict" : false
+				},
+				{
+					"name" : "o_led_tamanho",
+					"strict" : false
+				},
+				{
+					"name" : "o_led_acucar",
+					"strict" : false
+				},
+				{
+					"name" : "o_display0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_display3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i_cafe",
+					"strict" : false
+				},
+				{
+					"name" : "i_cafe_leite",
+					"strict" : false
+				},
+				{
+					"name" : "i_moca",
+					"strict" : false
+				},
+				{
+					"name" : "i_tamanho",
+					"strict" : false
+				},
+				{
+					"name" : "i_acucar",
+					"strict" : false
+				},
+				{
+					"name" : "i_reset",
+					"strict" : false
+				},
+				{
+					"name" : "i_start",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

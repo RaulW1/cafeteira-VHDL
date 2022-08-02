@@ -1,0 +1,36 @@
+----- TIMER PREPARO -----
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_signed.all;
+use ieee.std_logic_arith.all;
+
+entity timer_preparo is
+	port
+	(
+		-- entradas
+		i_timer_en 		: in STD_LOGIC;
+		i_timer_sel		: in STD_LOGIC;
+		i_clk				: in STD_LOGIC;
+		i_reset			: in STD_LOGIC;
+		
+		-- saidas
+		o_timer_end		: out STD_LOGIC
+	);
+end timer_preparo;
+
+architecture Behavorial of timer_preparo is
+
+signal count	: STD_LOGIC_VECTOR (25 down to 0);
+
+begin
+	process(i_clock, i_reset) 
+		if (i_reset = '1') then
+			count <= "00000000000000000000000000";
+		elsif (rising_edge(i_clk) and i_timer_en = '1') then
+			count <= count + 1;
+			if 
+		end if;
+	end process;
+	o_timer_end <= '1';
+end Behavorial;

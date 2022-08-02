@@ -1,0 +1,44 @@
+---- VALVULA ----
+
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_signed.all;
+use ieee.std_logic_arith.all;
+
+entity valvula is
+	port
+	(
+		--entradas
+		i_clk			: in STD_LOGIC;
+		i_reset		: in STD_LOGIC;
+		i_valve_en	: in STD_LOGIC;
+		i_count		: in integer;
+		
+		--saidas
+		o_valve_end		: out STD_LOGIC
+	);
+end valvula;
+
+architecture behavorial of valvula is
+	-- 50MHz
+	signal w_clock_freq	: STD_LOGIC_VECTOR (27 downto 0) := "0010111110101111000010000000";
+	signal w_ticks			: integer := 0;
+	begin
+		process(i_reset, i_clk)
+		begin
+			if (i_reset = '1') then
+				-- zerar contador
+				--zerar saida
+				W_ticks		<= 0;
+				o_valve_end <= '0';
+			elsif (rising_edge(i_clk) and i_valve_en = '1') then
+				-- contar até i_count
+				if (w_ticks = i_count) then
+					w_ticks <= 0;
+					o_valve_end <= '1';
+				else
+					w_ticks <= w_ticks + 1;
+				end if;
+			end if;
+		end process;
+end behavorial;
